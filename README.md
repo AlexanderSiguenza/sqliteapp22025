@@ -52,6 +52,7 @@ App Android hecha en Kotlin con conexión a SQLite. Este proyecto es un ejemplo 
 ┣ 📄 build.gradle
 ┗ 📄 README.md
 
+
 ## 📸 Capturas de pantalla
 
 > Puedes agregar imágenes aquí si tienes:
