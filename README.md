@@ -35,7 +35,7 @@ App Android hecha en Kotlin con conexión a SQLite. Este proyecto es un ejemplo 
 ---
 
 ## 📂 Estructura del proyecto
-
+```text
 📦 sqliteapp22025
 ┣ 📂 app
 ┃ ┣ 📂 src
@@ -51,7 +51,7 @@ App Android hecha en Kotlin con conexión a SQLite. Este proyecto es un ejemplo 
 ┃ ┃ ┃ ┃ ┗ 📄 AndroidManifest.xml
 ┣ 📄 build.gradle
 ┗ 📄 README.md
-
+```
 
 ## 📸 Capturas de pantalla
 
